@@ -100,17 +100,4 @@ This project investigates the relationship between public sentiment and stock pr
 
 The results, including performance metrics, visualizations, and final evaluation, are stored in the `results/` directory. Key metrics include the Sharpe Ratio, win ratio, and overall portfolio value.
 
-## Future Work
 
-- **Model Optimization**: Further tune and optimize the Random Forest model and explore other machine learning algorithms.
-- **Real-time Sentiment Analysis**: Implement a real-time system to analyze live news feeds and adjust trading strategies accordingly.
-- **Advanced NLP Models**: Experiment with advanced NLP models like BERT for more accurate sentiment predictions.
-- **Expansion to Other Stocks and Markets**: Extend the analysis to a broader range of stocks and explore other financial markets.
-
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
