@@ -1,4 +1,4 @@
-# Sentiment Analysis and Stock Price Prediction
+# Sentiment Analysis and Stock Price Prediction 
 
 ## Overview
 
@@ -7,7 +7,7 @@ This project investigates the relationship between public sentiment and stock pr
 ## Project Structure
 
 - `data/`: Directory containing collected datasets and preprocessed data.
-- `notebooks/`: Jupyter notebooks for data exploration, sentiment analysis, and model training.
+- `notebooks/`: Jupyter notebooks for data exploration, sentiment analysis,and model training.
 - `scripts/`: Python scripts for web scraping, data preprocessing, and sentiment analysis.
 - `models/`: Directory for saving trained models and relevant outputs.
 - `results/`: Directory for storing evaluation metrics, visualizations, and final results.
